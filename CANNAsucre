@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANNAsucre</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+        }
+        main {
+            padding: 50px 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CANNAsucre</h1>
+    </header>
+
+    <main>
+        <h2>Bienvenue sur CANNAsucre</h2>
+        <p>C'est un site web simple, créé pour vous montrer les bases du HTML et du CSS.</p>
+        <p><a href="https://www.example.com" target="_blank">Visiter un autre site</a></p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 CANNAsucre</p>
+    </footer>
+</body>
+</html>
